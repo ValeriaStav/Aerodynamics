@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aerodynamics.BusinessLogic", "src\Aerodynamics.BusinessLogic\Aerodynamics.BusinessLogic.csproj", "{5EBA9A54-4122-458B-B25C-B5CAED854B30}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aerodynamics.BusinessLogic.Tests", "tests\Aerodynamics.BusinessLogic.Tests\Aerodynamics.BusinessLogic.Tests.csproj", "{FDE10906-18EE-4D69-85A6-0BE3C48E22D9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5EBA9A54-4122-458B-B25C-B5CAED854B30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5EBA9A54-4122-458B-B25C-B5CAED854B30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5EBA9A54-4122-458B-B25C-B5CAED854B30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5EBA9A54-4122-458B-B25C-B5CAED854B30}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FDE10906-18EE-4D69-85A6-0BE3C48E22D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDE10906-18EE-4D69-85A6-0BE3C48E22D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDE10906-18EE-4D69-85A6-0BE3C48E22D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDE10906-18EE-4D69-85A6-0BE3C48E22D9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AC9E1EE4-CF95-43AC-B982-E6004B2EF770}
+	EndGlobalSection
+EndGlobal
